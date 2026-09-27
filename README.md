@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finger Frame Effect (Python + OpenCV)
 
 A Python/OpenCV clone of [sophiamyang/finger-frame-effect](https://github.com/sophiamyang/finger-frame-effect):
@@ -97,3 +98,6 @@ finger-frame-effect-py/
 - Inspired by [sophiamyang/finger-frame-effect](https://github.com/sophiamyang/finger-frame-effect)
 - Hand tracking via [Google MediaPipe](https://github.com/google-ai-edge/mediapipe)
 - Built with [OpenCV](https://opencv.org/) and [NumPy](https://numpy.org/)
+=======
+# Finger_Frame_Effect
+>>>>>>> e9419fca118f980352508f620bfa6ef19dc33cff
